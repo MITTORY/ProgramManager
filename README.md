@@ -27,8 +27,8 @@
 
 ### Через GitHub Releases
 1. Перейдите на [страницу последнего релиза](https://github.com/MITTORY/ProgramManager/releases/latest)
-2. Скачайте файл `program_manager.rar` из раздела **Assets**
-3. Распакуйте архив в удобную папку
+2. Скачайте архив из раздела **Assets**
+3. Распакуйте в удобную папку
 4. Запустите `ProgramManager.exe`
 
 ## Использование
