@@ -81,4 +81,4 @@
 Разработано с ❤️ для удобного управления программами.  
 
 Ваши отзывы и предложения приветствуются!  
-📧 Связь: [ваш.email@example.com](mailto:ваш.email@example.com) | [Telegram](https://t.me/ваш_ник) | [Issues](https://github.com/ваш-username/program-manager/issues)
+📧 [Обратная связь]([mailto:ваш.email@example.com](https://mittory.github.io/FeedBackSite/))
