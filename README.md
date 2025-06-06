@@ -1,6 +1,6 @@
 # ProgramManager
 
-[![Version](https://img.shields.io/badge/version-1.3.1-blue)](https://github.com/mittory/program/releases)
+[![Version](https://img.shields.io/badge/version-1.3.1-blue)](https://github.com/MITTORY/ProgramManager/releases)
 
 **Программа для...** (краткое описание основного функционала)  
 **A program for...** (short description of main functionality)
@@ -10,7 +10,7 @@
 ## 📥 Скачивание и установка | Download and Installation
 
 ### Русский
-1. Перейдите в раздел [Releases](https://github.com/mittory/program/releases)
+1. Перейдите в раздел [Releases](https://github.com/MITTORY/ProgramManager/releases)
 2. Скачайте последнюю версию в формате `.rar`
 3. Распакуйте архив с помощью:
    - [WinRAR](https://www.win-rar.com/)
@@ -22,7 +22,7 @@
 > - Для работы требуется [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework)
 
 ### English
-1. Go to [Releases](https://github.com/mittory/program/releases)
+1. Go to [Releases](https://github.com/MITTORY/ProgramManager/releases)
 2. Download the latest `.rar` file
 3. Extract the archive using:
    - [WinRAR](https://www.win-rar.com/)
@@ -66,11 +66,11 @@
 ## 🔄 Обновления | Updates
 
 ### Русский
-Новые версии выходят в разделе [Releases](https://github.com/mittory/program/releases).
+Новые версии выходят в разделе [Releases](https://github.com/MITTORY/ProgramManager/releases).
 При запуске программы, если доступна новая версия, вы получите уведомление с предложением скачать обновление.
 
 ### English
-New versions are available in [Releases](https://github.com/mittory/program/releases).
+New versions are available in [Releases](https://github.com/MITTORY/ProgramManager/releases).
 If a new version is available, the program will notify you on startup and offer to download the update.
 
 ---
