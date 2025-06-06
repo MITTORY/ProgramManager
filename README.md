@@ -1,4 +1,4 @@
-# Program Name / Название программы
+# ProgramManager
 
 [![Version](https://img.shields.io/badge/version-1.3.1-blue)](https://github.com/mittory/program/releases)
 
