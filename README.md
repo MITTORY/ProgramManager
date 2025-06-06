@@ -75,9 +75,9 @@ If a new version is available, the program will notify you on startup and offer 
 ## ❓ Поддержка | Support
 
 ### Русский
-- Отчеты об ошибках: [Issues](https://github.com/mittory/program/issues)
-- Контакты: @mittory | [Telegram](https://t.me/mittory)
+- Отчеты об ошибках: [Issues](https://github.com/MITTORY/ProgramManager/issues)
+- Контакты: [Telegram](https://t.me/mittory)
 
 ### English
-- Bug reports: [Issues](https://github.com/mittory/program/issues)
-- Contacts: @mittory | [Telegram](https://t.me/mittory)
+- Bug reports: [Issues](https://github.com/MITTORY/ProgramManager/issues)
+- Contacts: [Telegram](https://t.me/mittory)
