@@ -2,9 +2,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.3.1-blue)](https://github.com/MITTORY/ProgramManager/releases)
 
-**Программа для...** (краткое описание основного функционала)  
-**A program for...** (short description of main functionality)
-
 ---
 
 ## 📥 Скачивание и установка | Download and Installation
